@@ -17,6 +17,8 @@ import SupportIcon from './icons/IconSupport.vue'
     Vue’s
     <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
     provides you with all information you need to get started.
+    <h1>esta es una prueba para ver si funca</h1>
+    <h2> esta es otra prueba para ver como funciona</h2>
   </WelcomeItem>
 
   <WelcomeItem>
